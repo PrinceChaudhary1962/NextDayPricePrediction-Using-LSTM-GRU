@@ -68,7 +68,7 @@ We evaluate and compare both models based on:
 
 ### 📷 Predicted vs Actual Closing Price
 
-<img width="593" height="318" alt="image" src="https://github.com/user-attachments/assets/d2facade-ab18-48ae-a26a-702c5a02676d" />
+<img width="593" height="318" alt="image" src="https://github.com/PrinceChaudhary1962/NextDayPricePrediction-Using-LSTM-GRU/blob/main/output.png?raw=true" />
 
 
 ---
